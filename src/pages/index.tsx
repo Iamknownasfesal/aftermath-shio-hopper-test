@@ -53,7 +53,7 @@ export default function Home() {
             </p>
 
             <p className="text-gray-900 text-balance mt-6 font-bold">
-              The code basicaly swaps 0.1 sui into USDC via aftermath, and
+              The code basicaly swaps 0.001 sui into USDC via aftermath, and
               calculates time spent on execution.
             </p>
           </div>
