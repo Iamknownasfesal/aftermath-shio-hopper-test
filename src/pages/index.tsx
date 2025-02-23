@@ -51,6 +51,11 @@ export default function Home() {
               Swap via different ways, and check their execution time. Swap ways
               include, Hopper way, Shio Tip way, and normal way.
             </p>
+
+            <p className="text-gray-900 text-balance mt-6 font-bold">
+              The code basicaly swaps 0.1 sui into USDC via aftermath, and
+              calculates time spent on execution.
+            </p>
           </div>
 
           <div className="w-full max-w-md flex justify-center">
